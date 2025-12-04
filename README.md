@@ -12,5 +12,5 @@ I enjoy building simple projects to practice concepts and improve step by step.
 - Build real-world projects
 - Contribute to open-source in the future
 
-
+### Connect with me 
 - Feel free to check my repos or connect with me!
