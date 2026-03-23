@@ -5,7 +5,6 @@ I enjoy building simple projects to practice concepts and improve step by step.
 
 ### 🌱 What I'm learning
 - Python and django
-- Docker
   
 ### 🎯 Goals
 - Become confident in full-stack development
